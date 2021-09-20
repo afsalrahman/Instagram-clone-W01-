@@ -76,7 +76,6 @@ body{
     margin-left: 288px;
     padding-left: 460px;
     padding-bottom: 70px;
-
 } */
 .section-container{
     padding-top: 40px;
@@ -142,8 +141,9 @@ body{
 }
 .p-image{
     
-    width: 613px;
+    width: 612px;
     height: 600px;
+    margin-left: 10px;
 
 }
 .p-f-icon{
@@ -216,7 +216,7 @@ body{
     color: rgb(131, 127, 127);
 }
 .h-l{
-    margin-left: -614px;
+    margin-left: -606px;
     margin-top: 841px;
     color: rgb(231, 231, 231);
 }
@@ -244,6 +244,7 @@ body{
     margin-left: 926px;
     margin-top: -1062px;
     display: flex;
+    z-index: 10;
 }
 .r-ac-dp{
     border-radius: 50%;
@@ -417,7 +418,7 @@ body{
     margin-left: -55px;
     margin-top: 353px;
     color: rgb(131, 127, 127);
-    font-size: smaller;
+    font-size: small;
 }
 .r-follow5{
     color: #0095f6;
